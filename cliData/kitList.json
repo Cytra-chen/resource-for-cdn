@@ -23,6 +23,13 @@
             ]
         },
         {
+            "key": "vue3",
+            "name": "@hdec/fawkes-kit-vue3",
+            "desc": "vue3项目",
+            "version": "1.0",
+            "tpl": []
+        },
+        {
             "key": "component",
             "name": "@hdec/fawkes-kit-component",
             "desc": "vue组件",
