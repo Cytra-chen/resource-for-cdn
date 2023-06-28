@@ -1,0 +1,56 @@
+{
+    "remoteKits": [
+        {
+            "key": "vue2",
+            "name": "@hdec/fawkes-kit-vue2",
+            "desc": "vue2项目",
+            "version": "1.0",
+            "tpl": [
+                {
+                    "name": "fawkes-template-vue2",
+                    "alias": "vue2-app",
+                    "prjUrl": "http://10.215.143.96:8080/fawkes/front-end/front-stack/fawkes-template-vue2",
+                    "projectId": "1838",
+                    "desc": "VUE2.7主项目模板"
+                },
+                {
+                    "name": "fawkes-template-mf-vue2",
+                    "alias": "vue2-mf-component",
+                    "prjUrl": "http://10.215.143.96:8008/fawkes/front-end/front-stack/fawkes-template-mf-vue2",
+                    "projectId": "1838",
+                    "desc": "VUE2.7远程组件项目模板"
+                }
+            ]
+        },
+        {
+            "key": "component",
+            "name": "@hdec/fawkes-kit-component",
+            "desc": "vue组件",
+            "version": "1.0",
+            "tpl": [
+                {
+                    "name": "fawkes-template-component",
+                    "alias": "template-component",
+                    "prjUrl": "http://10.215.143.96:8008/fawkes/front-end/front-stack/fawkes-template-component",
+                    "projectId": "1835",
+                    "desc": "vue组件模板"
+                }
+            ]
+        },
+        {
+            "key": "kit",
+            "name": "@hdec/fawkes-kit-kit",
+            "desc": "fawkes-cli套件",
+            "version": "1.0",
+            "tpl": [
+                {
+                    "name": "template-kit",
+                    "alias": "template-kit",
+                    "prjUrl": "http://10.215.143.96:8008/fawkes/front-end/front-stack/fawkes-template-kit",
+                    "projectId": "1836",
+                    "desc": "套件模板"
+                }
+            ]
+        }
+    ]
+}
