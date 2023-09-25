@@ -27,7 +27,15 @@
             "name": "@hdec/fawkes-kit-vue3",
             "desc": "vue3项目",
             "version": "1.0",
-            "tpl": []
+            "tpl": [
+                {
+                    "name": "template-app-entry",
+                    "alias": "mf-entry",
+                    "prjUrl": "http://10.215.143.96:8008/fawkes/front-end/runtime-framework/template-app-entry",
+                    "projectId": "2381",
+                    "desc": "mf架构app入口"
+                }
+            ]
         },
         {
             "key": "component",
